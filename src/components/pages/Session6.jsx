@@ -2,6 +2,8 @@ import Frame from "../../assets/Frame 01.svg";
 import Button from "../Button";
 import { LiaFacebook, LiaTwitter, LiaInstagram } from "react-icons/lia";
 
+
+
 const Session6 = () => {
   return (
     <div className="flex flex-col p-8 pl-40 w-[100%]">
@@ -61,5 +63,4 @@ const Session6 = () => {
     </div>
   );
 };
-
 export default Session6;
